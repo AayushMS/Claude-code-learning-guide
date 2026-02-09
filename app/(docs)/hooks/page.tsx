@@ -473,7 +473,7 @@ exit 0`}
             with{" "}
             <a href="/context-engineering">Context Engineering</a> for
             persistent memory and rules, and explore{" "}
-            <a href="/multi-claude">Multi-Claude Workflows</a> to
+            <a href="/agents">Agents &amp; Multi-Agent Orchestration</a> to
             orchestrate teams of agents &mdash; each with their own hooks.
           </p>
         </Callout>

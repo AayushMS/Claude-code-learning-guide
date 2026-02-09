@@ -50,7 +50,7 @@ export default function AcademyPage() {
           <p>
             <strong>Start here:</strong>{" "}
             <a
-              href="https://academy.anthropic.com/courses/claude-code-in-action"
+              href="https://anthropic.skilljar.com/claude-code-in-action"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -92,7 +92,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/claude-code-in-action"
+                    href="https://anthropic.skilljar.com/claude-code-in-action"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -116,7 +116,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/building-with-the-claude-api"
+                    href="https://anthropic.skilljar.com/claude-with-the-anthropic-api"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -140,7 +140,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/intro-to-mcp"
+                    href="https://anthropic.skilljar.com/introduction-to-model-context-protocol"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -164,7 +164,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/mcp-advanced-topics"
+                    href="https://anthropic.skilljar.com/model-context-protocol-advanced-topics"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -316,7 +316,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/claude-101"
+                    href="https://anthropic.skilljar.com/claude-101"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -341,7 +341,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/ai-fluency-framework"
+                    href="https://anthropic.skilljar.com/ai-fluency-framework-foundations"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -366,7 +366,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/ai-fluency-for-students"
+                    href="https://anthropic.skilljar.com/ai-fluency-for-students"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -391,7 +391,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/ai-fluency-for-educators"
+                    href="https://anthropic.skilljar.com/ai-fluency-for-educators"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -449,7 +449,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/amazon-bedrock"
+                    href="https://anthropic.skilljar.com/claude-in-amazon-bedrock"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -474,7 +474,7 @@ export default function AcademyPage() {
                 </td>
                 <td className="px-4 py-3">
                   <a
-                    href="https://academy.anthropic.com/courses/google-vertex-ai"
+                    href="https://anthropic.skilljar.com/claude-with-google-vertex"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"

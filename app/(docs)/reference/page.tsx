@@ -511,28 +511,28 @@ claude /install-github-app`}
               {(
                 [
                   [
-                    "Claude Code 101",
-                    "https://academy.anthropic.com/claude-code-101",
-                  ],
-                  [
-                    "Prompt Engineering",
-                    "https://academy.anthropic.com/prompt-engineering",
-                  ],
-                  [
-                    "Real-World Prompting",
-                    "https://academy.anthropic.com/real-world-prompting",
+                    "Claude Code in Action",
+                    "https://anthropic.skilljar.com/claude-code-in-action",
                   ],
                   [
                     "Building with the Claude API",
-                    "https://academy.anthropic.com/building-with-claude-api",
+                    "https://anthropic.skilljar.com/claude-with-the-anthropic-api",
                   ],
                   [
-                    "MCP Fundamentals",
-                    "https://academy.anthropic.com/mcp-fundamentals",
+                    "Intro to MCP",
+                    "https://anthropic.skilljar.com/introduction-to-model-context-protocol",
                   ],
                   [
-                    "AI Safety & Alignment",
-                    "https://academy.anthropic.com/ai-safety-alignment",
+                    "MCP Advanced Topics",
+                    "https://anthropic.skilljar.com/model-context-protocol-advanced-topics",
+                  ],
+                  [
+                    "Claude 101",
+                    "https://anthropic.skilljar.com/claude-101",
+                  ],
+                  [
+                    "AI Fluency Framework",
+                    "https://anthropic.skilljar.com/ai-fluency-framework-foundations",
                   ],
                 ] as const
               ).map(([course, url], i) => (
@@ -590,19 +590,19 @@ claude /install-github-app`}
                 [
                   [
                     "SkillsMP (Community Marketplace)",
-                    "https://github.com/anthropics/skillsmp",
+                    "https://skillsmp.com",
                   ],
                   [
                     "Anthropic Official Skills",
-                    "https://github.com/anthropics/claude-code-skills",
+                    "https://github.com/anthropics/skills",
                   ],
                   [
                     "planning-with-files Skill",
-                    "https://github.com/anthropics/claude-code-skills/tree/main/planning-with-files",
+                    "https://github.com/obra/superpowers/tree/main/skills/writing-plans",
                   ],
                   [
                     "test-driven-development Skill",
-                    "https://github.com/anthropics/claude-code-skills/tree/main/test-driven-development",
+                    "https://github.com/obra/superpowers/tree/main/skills/test-driven-development",
                   ],
                   [
                     "Claude Code Custom Skills Docs",
@@ -663,20 +663,16 @@ claude /install-github-app`}
               {(
                 [
                   [
-                    "Phase-Based Development (Reddit)",
-                    "https://www.reddit.com/r/ClaudeAI/comments/phase_based_development/",
-                  ],
-                  [
                     "Awesome CLAUDE.md Templates",
-                    "https://github.com/anthropics/awesome-claude-md",
+                    "https://github.com/josix/awesome-claude-md",
                   ],
                   [
-                    "Claude Code Frameworks & Patterns",
-                    "https://github.com/anthropics/claude-code-patterns",
+                    "Advanced Claude Code Patterns",
+                    "https://github.com/jawhnycooke/advanced-claude-code-patterns",
                   ],
                   [
-                    "Community Tips & Tricks",
-                    "https://github.com/anthropics/claude-code-tips",
+                    "Claude Code Tips",
+                    "https://github.com/ykdojo/claude-code-tips",
                   ],
                   [
                     "r/ClaudeAI Subreddit",
@@ -684,7 +680,7 @@ claude /install-github-app`}
                   ],
                   [
                     "Anthropic Discord",
-                    "https://discord.gg/anthropic",
+                    "https://discord.com/invite/6PPFFzqPDZ",
                   ],
                 ] as const
               ).map(([resource, url], i) => (
@@ -751,16 +747,16 @@ claude /install-github-app`}
               {(
                 [
                   [
-                    "Context Engineering Secrets for Claude Code",
-                    "https://www.anthropic.com/engineering/context-engineering-secrets",
+                    "Effective Context Engineering for AI Agents",
+                    "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
                   ],
                   [
-                    "Martin Fowler \u2014 Context Engineering",
-                    "https://martinfowler.com/articles/context-engineering.html",
+                    "Martin Fowler \u2014 Context Engineering for Coding Agents",
+                    "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
                   ],
                   [
                     "Tips for Building CLAUDE.md Files",
-                    "https://www.anthropic.com/engineering/claude-md-guide",
+                    "https://claude.com/blog/using-claude-md-files",
                   ],
                   [
                     "How Spotify Uses Claude Code",
@@ -771,8 +767,8 @@ claude /install-github-app`}
                     "https://www.anthropic.com/engineering/claude-code-best-practices",
                   ],
                   [
-                    "The CLAUDE.md Mega-Guide",
-                    "https://github.com/anthropics/claude-code/blob/main/CLAUDE.md",
+                    "Anthropic Quickstarts CLAUDE.md",
+                    "https://github.com/anthropics/claude-quickstarts/blob/main/CLAUDE.md",
                   ],
                   [
                     "Anthropic Engineering Blog",

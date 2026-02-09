@@ -523,7 +523,7 @@ Output the description in a fenced markdown block so the user can copy it.`}
         language="bash"
         title="Install via plugin system"
         code={`# Install from a GitHub repository
-/install-plugin https://github.com/anthropics/skill-frontend-design
+/install-plugin https://github.com/anthropics/skills/tree/main/skills/frontend-design
 
 # The skill is now available immediately
 /frontend-design Build a dashboard with a sidebar nav and data table`}
